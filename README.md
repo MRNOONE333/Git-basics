@@ -57,6 +57,9 @@ git merge <branch_to_be_merged_with>
 # To fetch from the cloud to the local machine
 git pull origin main
 
+# Display the commit history and see hash code
+git log
+
 # Undoing changes
 
 # 1. When you add but don't commit
